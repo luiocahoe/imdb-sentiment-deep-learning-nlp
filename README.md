@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luiocahoe/imdb-sentiment-deep-learning-nlp/blob/main/notebooks/imdb_lstm.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luiocahoe/imdb-sentiment-deep-learning-nlp/blob/main/imdb_lstm.ipynb)
 
 Este repositorio contiene el desarrollo de varios modelos de deep learning para análisis de sentimiento en reseñas de películas utilizando el dataset IMDB. Se exploran arquitecturas clásicas como LSTM, variantes con atención, modelos bidireccionales y modelos basados en Transformers (BERT), incluyendo experimentos de optimización y comparación de resultados.
 
