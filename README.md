@@ -1,8 +1,8 @@
 # IMDB Sentiment Analysis con Deep Learning y Transformers
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]()  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luiocahoe/imdb-sentiment-deep-learning-nlp/blob/main/imdb_sentiment.ipynb)  
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE.md)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luiocahoe/imdb-sentiment-deep-learning-nlp/blob/main/imdb_sentiment.ipynb)
 
 Este repositorio contiene el desarrollo de varios modelos de deep learning para análisis de sentimiento en reseñas de películas utilizando el dataset IMDB. Se exploran arquitecturas clásicas como LSTM, variantes con atención, modelos bidireccionales y modelos basados en Transformers (BERT), incluyendo experimentos de optimización y comparación de resultados.
 
